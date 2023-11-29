@@ -18,6 +18,25 @@ Not Found Page: In the event that a user enters a route that doesn't exist, they
 
 Employee Pages (Landing Page): Pages that give employees and admins access to database CRUD operations. Allows employees to carry out their functions in relation to the database. Admins gain access to deletion requests to the database. while employees do not have this privilege. 
 
+---------------------------------------
+
+Sample employee pages locked behind login -
+
+(Employee Info):
+![image](https://github.com/ksskatka/Museum-Database/assets/101766807/06933b25-f157-4448-823d-3a1f3d113872)
+
+(View and edit artworks):
+![image](https://github.com/ksskatka/Museum-Database/assets/101766807/1153bf67-9bea-4c92-a242-5b2ae5335d5e)
+
+(View and edit gift shop items):
+![image](https://github.com/ksskatka/Museum-Database/assets/101766807/070d57be-4b10-4f75-8e99-1efc5be4802e)
+
+(Manage employees as an Admin):
+![image](https://github.com/ksskatka/Museum-Database/assets/101766807/81daee89-3b17-48b9-b0c6-46fe90942a37)
+
+(Generate reports):
+![image](https://github.com/ksskatka/Museum-Database/assets/101766807/e04f6040-de2d-46ad-8cbd-3a04f55d9980)
+
 --------------------------------------
 
 # Getting Started with Create React App
